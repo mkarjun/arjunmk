@@ -1,2 +1,2 @@
-https://mkarjun.github.io/arjun/
+https://mkarjun.github.io
 A github page profile
